@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-Design
 - 🌱 I’m currently learning HTML | CSS | JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - my email: kormyshev11@mail.ru
 
 <!---
 cofeek-codes/cofeek-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
