@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cofeek
 - 👀 I’m interested in Web-Design
-- 🌱 I’m currently learning  Vuejs | Nestjs
+- 🌱 I’m currently learning  PHP | Symfony
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - my email: kormyshev11@mail.ru
 
