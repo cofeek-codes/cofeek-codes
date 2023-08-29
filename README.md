@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Cofeek
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning  C++ | C# | Next.js | Nest.js | React Native | PHP
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning    RUST | PHP | TS 
 - 📫 How to reach me - my email: 11kormyshev11@gmail.com
 - My personal website -> [cofeek-codes](https://cofeek-codes.online/)\
 ==========================================================================\
