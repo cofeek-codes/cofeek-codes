@@ -5,4 +5,6 @@
 - My personal website ->  [cofeek-codes](https://profile-advanced.vercel.app/) \
 ==========================================================================\
 [![wakatime](https://wakatime.com/badge/user/ecf8c1c7-20f8-4ccf-b81e-eaddf3db3206.svg)](https://wakatime.com/@ecf8c1c7-20f8-4ccf-b81e-eaddf3db3206)
+[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg)](https://www.buymeacoffee.com/cofeekcodes)
+
 
